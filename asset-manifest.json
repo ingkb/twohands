@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TwoHands/static/css/main.f6372e0e.css",
+    "main.js": "/TwoHands/static/js/main.e2fbe3dd.js",
+    "index.html": "/TwoHands/index.html",
+    "main.f6372e0e.css.map": "/TwoHands/static/css/main.f6372e0e.css.map",
+    "main.e2fbe3dd.js.map": "/TwoHands/static/js/main.e2fbe3dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6372e0e.css",
+    "static/js/main.e2fbe3dd.js"
+  ]
+}
