@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/twohands/static/css/main.f6372e0e.css",
-    "main.js": "/twohands/static/js/main.e2fbe3dd.js",
+    "main.css": "/twohands/static/css/main.7eaa5602.css",
+    "main.js": "/twohands/static/js/main.e7de8ec5.js",
     "index.html": "/twohands/index.html",
-    "main.f6372e0e.css.map": "/twohands/static/css/main.f6372e0e.css.map",
-    "main.e2fbe3dd.js.map": "/twohands/static/js/main.e2fbe3dd.js.map"
+    "main.7eaa5602.css.map": "/twohands/static/css/main.7eaa5602.css.map",
+    "main.e7de8ec5.js.map": "/twohands/static/js/main.e7de8ec5.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6372e0e.css",
-    "static/js/main.e2fbe3dd.js"
+    "static/css/main.7eaa5602.css",
+    "static/js/main.e7de8ec5.js"
   ]
 }
