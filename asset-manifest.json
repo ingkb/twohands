@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/twohands/static/css/main.68bacf6e.css",
-    "main.js": "/twohands/static/js/main.91eb0512.js",
-    "static/media/Banner.png": "/twohands/static/media/Banner.a08b0610072cd4244396.png",
+    "main.css": "/twohands/static/css/main.f5f012b0.css",
+    "main.js": "/twohands/static/js/main.d759cac4.js",
+    "static/media/Banner1.png": "/twohands/static/media/Banner1.b6865d728a91900db575.png",
     "static/media/banner3.png": "/twohands/static/media/banner3.53a12f70f74a57a90858.png",
     "static/media/bannerHealth.png": "/twohands/static/media/bannerHealth.480c11b97718821336d8.png",
     "static/media/fotoautor.png": "/twohands/static/media/fotoautor.ba2449fd2ca740ea71c0.png",
-    "static/media/linesback.png": "/twohands/static/media/linesback.2d82982818462cb7bfd9.png",
+    "static/media/linesback2.png": "/twohands/static/media/linesback2.ca4c55f8f4f29c1ba887.png",
     "static/media/pareja.png": "/twohands/static/media/pareja.a4ab4fc056b2893a8d1a.png",
-    "static/media/s4back.png": "/twohands/static/media/s4back.4d4943c6575a04982ec9.png",
+    "static/media/s4back.png": "/twohands/static/media/s4back.6558283069d2d84f40fb.png",
     "static/media/alabanza.png": "/twohands/static/media/alabanza.b0ecf802bcfcea5a1401.png",
     "static/media/cruz.png": "/twohands/static/media/cruz.0aacae49c15a9d0c4585.png",
     "static/media/adolescente.png": "/twohands/static/media/adolescente.b8799a9686e8cb6add93.png",
+    "static/media/LogoHorizontalsmall.png": "/twohands/static/media/LogoHorizontalsmall.2ec47d9ec5b7337c6185.png",
     "static/media/circle.png": "/twohands/static/media/circle.d531f6cfc4209c5f9168.png",
     "index.html": "/twohands/index.html",
-    "main.68bacf6e.css.map": "/twohands/static/css/main.68bacf6e.css.map",
-    "main.91eb0512.js.map": "/twohands/static/js/main.91eb0512.js.map"
+    "main.f5f012b0.css.map": "/twohands/static/css/main.f5f012b0.css.map",
+    "main.d759cac4.js.map": "/twohands/static/js/main.d759cac4.js.map"
   },
   "entrypoints": [
-    "static/css/main.68bacf6e.css",
-    "static/js/main.91eb0512.js"
+    "static/css/main.f5f012b0.css",
+    "static/js/main.d759cac4.js"
   ]
 }
