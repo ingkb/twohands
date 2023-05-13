@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twohands/static/css/main.f5f012b0.css",
-    "main.js": "/twohands/static/js/main.d759cac4.js",
-    "static/media/Banner1.png": "/twohands/static/media/Banner1.b6865d728a91900db575.png",
+    "main.js": "/twohands/static/js/main.8cb85f0b.js",
+    "static/media/Banner1.png": "/twohands/static/media/Banner1.af517049a9159f00bed5.png",
     "static/media/banner3.png": "/twohands/static/media/banner3.53a12f70f74a57a90858.png",
     "static/media/bannerHealth.png": "/twohands/static/media/bannerHealth.480c11b97718821336d8.png",
     "static/media/fotoautor.png": "/twohands/static/media/fotoautor.ba2449fd2ca740ea71c0.png",
@@ -16,10 +16,10 @@
     "static/media/circle.png": "/twohands/static/media/circle.d531f6cfc4209c5f9168.png",
     "index.html": "/twohands/index.html",
     "main.f5f012b0.css.map": "/twohands/static/css/main.f5f012b0.css.map",
-    "main.d759cac4.js.map": "/twohands/static/js/main.d759cac4.js.map"
+    "main.8cb85f0b.js.map": "/twohands/static/js/main.8cb85f0b.js.map"
   },
   "entrypoints": [
     "static/css/main.f5f012b0.css",
-    "static/js/main.d759cac4.js"
+    "static/js/main.8cb85f0b.js"
   ]
 }
