@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/twohands/static/css/main.f5f012b0.css",
-    "main.js": "/twohands/static/js/main.8cb85f0b.js",
-    "static/media/Banner1.png": "/twohands/static/media/Banner1.af517049a9159f00bed5.png",
+    "main.css": "/twohands/static/css/main.d501dc97.css",
+    "main.js": "/twohands/static/js/main.579d9d9b.js",
+    "static/media/Banner1.png": "/twohands/static/media/Banner1.2559be3a49cd158f4d2a.png",
     "static/media/banner3.png": "/twohands/static/media/banner3.53a12f70f74a57a90858.png",
     "static/media/bannerHealth.png": "/twohands/static/media/bannerHealth.480c11b97718821336d8.png",
-    "static/media/fotoautor.png": "/twohands/static/media/fotoautor.ba2449fd2ca740ea71c0.png",
     "static/media/linesback2.png": "/twohands/static/media/linesback2.ca4c55f8f4f29c1ba887.png",
     "static/media/pareja.png": "/twohands/static/media/pareja.a4ab4fc056b2893a8d1a.png",
     "static/media/s4back.png": "/twohands/static/media/s4back.6558283069d2d84f40fb.png",
     "static/media/alabanza.png": "/twohands/static/media/alabanza.b0ecf802bcfcea5a1401.png",
     "static/media/cruz.png": "/twohands/static/media/cruz.0aacae49c15a9d0c4585.png",
     "static/media/adolescente.png": "/twohands/static/media/adolescente.b8799a9686e8cb6add93.png",
+    "static/media/fotoautor.jpeg": "/twohands/static/media/fotoautor.490e8d3bfd6426b232eb.jpeg",
     "static/media/LogoHorizontalsmall.png": "/twohands/static/media/LogoHorizontalsmall.2ec47d9ec5b7337c6185.png",
     "static/media/circle.png": "/twohands/static/media/circle.d531f6cfc4209c5f9168.png",
     "index.html": "/twohands/index.html",
-    "main.f5f012b0.css.map": "/twohands/static/css/main.f5f012b0.css.map",
-    "main.8cb85f0b.js.map": "/twohands/static/js/main.8cb85f0b.js.map"
+    "main.d501dc97.css.map": "/twohands/static/css/main.d501dc97.css.map",
+    "main.579d9d9b.js.map": "/twohands/static/js/main.579d9d9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5f012b0.css",
-    "static/js/main.8cb85f0b.js"
+    "static/css/main.d501dc97.css",
+    "static/js/main.579d9d9b.js"
   ]
 }
